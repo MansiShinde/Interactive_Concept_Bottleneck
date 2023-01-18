@@ -1,5 +1,7 @@
 # Interactive_Concept_Bottleneck
 
+Caltech-UCSD Birds 200 2011 (CUB-200-2011) Dataset is used as the training and test data. Please download the dataset via https://data.caltech.edu/records/65de6-vp158
+
 Below is the folder structure of the application:
 - BOTTLENECK_UI – main folder
 - backend
